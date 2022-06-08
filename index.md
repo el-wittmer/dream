@@ -8,7 +8,7 @@ title: DREAM Project Site
 
 ## About Me
 
-Hi! I'm Elaina — I'm a current iCAN student at University of Illinois Urbana-Champaign (2021-2022 cohort). I got my B.A. in Linguistics from Reed College in 2019, where I discovered a love of data wrangling and experimental design. The iCAN program has given me the tools to  My research interests are broad but I'm currently focused on graph theory, data visualization, and working with natural language processing.
+Hi! I'm Elaina — I'm a current iCAN student at University of Illinois Urbana-Champaign (2021-2022 cohort). I got my B.A. in Linguistics from Reed College in 2019, where I discovered a love of data wrangling and experimental design. My research interests are broad but I'm currently focused on graph theory, data visualization, and working with natural language processing.
 
 ## About My Advisor
 
