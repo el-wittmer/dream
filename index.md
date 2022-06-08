@@ -8,7 +8,7 @@ title: DREAM Project Site
 
 ## About Me
 
-Hi! I'm Elaina — I'm a current iCAN student at University of Illinois Urbana-Champaign (2021-2022 cohort). I come to Computer Science by way of Linguistics, where I discovered a love of working with data and experimental design. I'm interested in a wide range of topics, but currently I'm focusing on graph theory, data visualization, and working with natural language processing. 
+Hi! I'm Elaina — I'm a current iCAN student at University of Illinois Urbana-Champaign (2021-2022 cohort). I come to Computer Science by way of Linguistics, through which I discovered a love of working with data and experimental design. I'm interested in a wide range of topics, but currently I'm focusing on graph theory, data visualization, and working with natural language processing. 
 
 ## About My Advisor
 
