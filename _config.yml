@@ -9,7 +9,7 @@ name: Elaina Wittmer
 description: DREAM Project
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/download20211001185116.png
+avatar: https://avatars.githubusercontent.com/u/106082110?s=400&u=2407a777bd3d2662868132c2f2e2e7bebdf74262&v=4
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/do
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: enw3[at]illinois[dot]edu
+  email: enw3@illinois.edu
   facebook:
   flickr:
   rss: # just type anything here for a working RSS icon
