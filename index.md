@@ -16,7 +16,7 @@ Hi! I'm Elaina — I'm a current iCAN student at University of Illinois Urbana-C
 
 ## About My Project
 
-
+My project is composed of a) critical evalutation of relevant literature in Scientometrics, b) utilizing methods to interrogate large citation graphs, and c) fostering scientific discovery and curiosity. Clustering methods can be used to identify research communities formed around a particular research question. A key part of this project will be to generate keywords to describe the unifying topic(s) for each cluster in a citation graph. While this task can be performed manually, an accurate, automated process would drastically reduce the amount of time required to complete it. 
 
 <br/><br/>
 [My Final Report - In Progress](files/finalreport.pdf)
