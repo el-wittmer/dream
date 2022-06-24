@@ -8,7 +8,7 @@ title: DREAM Project Site
 
 ## About Me
 
-Hi! I'm Elaina — I'm a current iCAN student at University of Illinois Urbana-Champaign (2021-2022 cohort). I got my B.A. in Linguistics from Reed College in 2019, through which I discovered a love of data wrangling and experimental design. My current research interests include graph theory, data visualization, and dabbling with natural language processing.
+I'm Elaina — I'm a current iCAN student at University of Illinois Urbana-Champaign (2021-2022 cohort). I got my B.A. in Linguistics from Reed College in 2019, through which I discovered a love of data wrangling and experimental design. My current research interests include graph theory, data visualization, and dabbling with natural language processing.
 
 ## About My Advisor
 
@@ -16,7 +16,9 @@ Hi! I'm Elaina — I'm a current iCAN student at University of Illinois Urbana-C
 
 ## About My Project
 
-[//]: # (My project is composed of 1. critical evalutation of relevant literature in Scientometrics, 2. utilizing methods to interrogate large citation graphs, and 3. fostering scientific discovery and curiosity. Graph clustering methods have been used to identify research communities formed around a particular research question. Pending project details.)
+[Bu et al. (2021)](https://doi.org/10.1162/qss_a_00109) propose four new metrics for measuring the impact of a research article: breadth, depth, dependence, and independence. These metrics provide more information about the impact of a given article than a standard citation count allows, as two papers can have the same number of citations but differing levels of breadth/depth or dependence/independence. [Read more about metrics](https://el-wittmer.github.io/week6/)
+
+However, Bu et al. apply their methods to i) 36.2 million publications extracted from Web of Science and ii) 14,464 publications determined to be related to scientometrics specifically. 
 
 <br/><br/>
 [My Final Report - In Progress](files/finalreport.pdf)
