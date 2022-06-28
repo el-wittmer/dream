@@ -12,7 +12,7 @@ I'm Elaina — I'm a current iCAN student at University of Illinois Urbana-Champ
 
 ## About My Advisor
 
-<a href="https://cs.illinois.edu/about/people/faculty/chackoge">George Chacko</a> is a Research Associate Professor of Computer Science at UIUC and Executive Director of Research Analytics at the Grainger College of Engineering. His research interests span novelty in science, research impact, knowledge diffusion, and the structure of research communities. More generally, research in scientometrics.
+<a href="https://cs.illinois.edu/about/people/faculty/chackoge">George Chacko</a> is a Research Associate Professor of Computer Science at UIUC and Executive Director of Research Analytics at the Grainger College of Engineering. His research interests span novelty in science, research impact, knowledge diffusion, and the structure of research communities. More generally, his research involves scientometrics.
 
 ## About My Project
 
@@ -22,7 +22,6 @@ However, Bu et al. apply their methods to i) 36.2 million publications extracted
 
 Through using a more focused data set and introducing a time dimension, these metrics can inform how histone research has changed over the decade. An increasing amount of dependence might indicate the existence of a foundation of research that new papers are building on, while a stable or increasing level of independence may indicate that research in this area is fragmented. Similarly, increasing levels of depth would suggest close-knit communities were developing within histone research, while high levels of breadth would indicate that histone research was mostly being cited by external communities. 
 
-<br/><br/>
 [My Final Report - In Progress](files/finalreport.pdf)
 
 ## My Blog
