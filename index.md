@@ -18,7 +18,8 @@ I'm Elaina — I'm a current iCAN student at University of Illinois Urbana-Champ
 
 Recent studies have addressed issues of assessing the impact of publications using citation counts. [Bu et al. (2021)](https://doi.org/10.1162/qss_a_00109) propose four new metrics used to provide new dimension to citation counts, which the authors claim can be utilized to quantitatively assess the impact of publications. Using "breadth" and "depth" measures from Bu et al. (2021), I compare these results against a qualitative analysis provided by [Leng (2022)](https://doi.org/10.1162/qss_a_00154). Leng analyzed the citation network of a single paper [Paul et al. (1963)](https://doi.org/10.1161/01.CIR.28.1.20) to determine whether Paul et al. had a broad impact across several different research communities. I ask whether Bu et al.'s proposed metrics are aligned with Leng's impressions, as well as how these measures change for the first twenty years following the publication of Paul et al. Preliminary findings suggest that 20 years after publication, Paul et al. has only 18% breadth and 82% depth. Findings also show that for the first two years after publication, the paper had a greater proportion of breadth than depth, suggesting that these measures might be skewed towards breadth for newer publications.
 
-[My Final Report - In Progress](files/finalreport.pdf)
+[My Final Report - Paper](files/finalreport.pdf)
+[My Final Report - Presentation](files/finalreportpres.pdf)
 
 ## My Blog
 
