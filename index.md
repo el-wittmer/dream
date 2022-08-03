@@ -8,7 +8,7 @@ title: DREAM Project Site
 
 ## About Me
 
-I'm Elaina — I'm a current iCAN student at University of Illinois Urbana-Champaign (2021-2022 cohort) and a [DREAM fellow](https://tech.mines.edu/dream/). I got my B.A. in Linguistics from Reed College in 2019, where I discovered a love of data wrangling and experimental design. My current research interests include graph theory, data visualization, and dabbling with natural language processing. Very broadly, I love data science!
+I'm Elaina — I'm a current iCAN student at University of Illinois Urbana-Champaign (2021-2022 cohort) and a [DREAM fellow](https://tech.mines.edu/dream/). I got my B.A. in Linguistics from Reed College in 2019, where I discovered a love of data wrangling and experimental design. I'm interested in topics under the data science umbrella, but my current research interests include graph theory, data visualization, and dabbling with natural language processing. 
 
 ## About My Advisor
 
@@ -16,7 +16,9 @@ I'm Elaina — I'm a current iCAN student at University of Illinois Urbana-Champ
 
 ## About My Project
 
-Recent studies have addressed issues of assessing the impact of publications using citation counts. [Bu et al. (2021)](https://doi.org/10.1162/qss_a_00109) propose four new metrics used to provide new dimension to citation counts, which the authors claim can be utilized to quantitatively assess the impact of publications. Using "breadth" and "depth" measures from Bu et al. (2021), I compare these results against a qualitative analysis provided by [Leng (2022)](https://doi.org/10.1162/qss_a_00154). Leng analyzed the citation network of a single paper [Paul et al. (1963)](https://doi.org/10.1161/01.CIR.28.1.20) to determine whether Paul et al. had a broad impact across several different research communities. I ask whether Bu et al.'s proposed metrics are aligned with Leng's impressions, as well as how these measures change for the first twenty years following the publication of Paul et al. Preliminary findings suggest that 20 years after publication, Paul et al. has only 18% breadth and 82% depth. Findings also show that for the first two years after publication, the paper had a greater proportion of breadth than depth, suggesting that these measures might be skewed towards breadth for newer publications.
+### Abstract
+
+Recent studies have focused on assessing the impact of publications using citation data. This study addresses concepts of "breadth" and "depth" and uses recently introduced metrics to quantitatively assess the breadth and depth of a single study, Paul et al. (1963). The results of these measurements are compared against previous qualitative assessments of the network of citations to Paul et al. (1963). Findings show that Paul et al. (1963) can be considered "broad" at the onset of publication, but deepens over the course of its lifespan, contrasting previous qualitative interpretations. It is likely that the breadth and depth metrics used in this study are used to distinguish publications cited for methodology from those cited for their discoveries. As such, I suggest that breadth and depth be weighted differently for methods papers and research articles to better distinguish differences in citation patterns within these two categories.
 
 [My Final Report - Paper](files/finalreport.pdf)
 
