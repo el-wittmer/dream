@@ -20,7 +20,7 @@ My study builds upon the concepts of breadth and depth as articulated by Bu, Wal
 
 Findings show that Paul et al. (1963) has breadth at the onset of publication, but deepens over the course of its lifespan, contrasting conclusions presented by Leng (2022). It is likely that the breadth and depth metrics used in this study are better suited to distinguish publications cited for methodology from those cited for their discoveries. As such, I suggest that breadth and depth be weighted differently for methods papers and research articles to better distinguish differences in citation patterns within a single publication category.
 
-Future research might compare the breadth of Paul et al. (1963) to other highly-cited research articles published around the same time to determine whether there is any meaningful difference between the breadths of research articles. Additionally, further developement needs to be done on methodologies to examine the breadth of a research article without holding it to the same standard as a tool or methods paper.
+Future research might compare the breadth of Paul et al. (1963) to other highly-cited research articles published around the same time to determine whether there is any meaningful difference between the breadths of research articles. Additionally, further developement needs to be done on methodologies to examine the breadth of a research article without holding it to the same standards as a tool or methods paper.
 
 Many thanks to [Franklin Moy](https://github.com/franklinmoy3) for graciously allowing me to use his code for calculating the Bu et al. (2021) metrics and for his help with troubleshooting. 
 
