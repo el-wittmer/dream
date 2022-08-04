@@ -16,13 +16,11 @@ I'm Elaina — I'm a current iCAN student at University of Illinois Urbana-Champ
 
 ## About My Project
 
-### Abstract
-
 Recent studies have focused on assessing the impact of publications using citation data. This study addresses concepts of "breadth" and "depth" and uses recently introduced metrics to quantitatively assess the breadth and depth of a single study, Paul et al. (1963). The results of these measurements are compared against previous qualitative assessments of the network of citations to Paul et al. (1963). Findings show that Paul et al. (1963) can be considered "broad" at the onset of publication, but deepens over the course of its lifespan, contrasting previous qualitative interpretations. It is likely that the breadth and depth metrics used in this study are used to distinguish publications cited for methodology from those cited for their discoveries. As such, I suggest that breadth and depth be weighted differently for methods papers and research articles to better distinguish differences in citation patterns within these two categories.
 
-[My Final Report - Paper](files/finalreport.pdf)
-
-[My Final Report - Presentation](files/finalreportpres.pdf)
+[Impact Assessment Project - Paper](files/finalreport.pdf)
+[Impact Assessment Project - Presentation](files/finalreportpres.pdf)
+[Code and Data Relevant to Impact Assessment Project](https://github.com/el-wittmer/CS597_2022/tree/main/Impact_Assessment)
 
 ## My Blog
 
