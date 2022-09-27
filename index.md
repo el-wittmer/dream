@@ -8,7 +8,7 @@ title: DREAM Project Site
 
 ## About Me
 
-I'm Elaina — I'm a current [iCAN student](https://cs.illinois.edu/academics/graduate/ican) at University of Illinois Urbana-Champaign (2021-2022 cohort) and a [DREAM fellow](https://tech.mines.edu/dream/). I got my B.A. in Linguistics from Reed College in 2019, where I discovered a love of data wrangling and experimental design. I'm interested in topics under the data science umbrella, but my current research interests include graph theory, data visualization, and dabbling with natural language processing. 
+I'm Elaina — I'm a former [iCAN student](https://cs.illinois.edu/academics/graduate/ican) (2021-2022 cohort) at University of Illinois Urbana-Champaign  and a [DREAM fellow](https://tech.mines.edu/dream/). I got my B.A. in Linguistics from Reed College in 2019, where I discovered a love of data wrangling and experimental design. I'm interested in topics under the data science umbrella, but my current research interests include graph theory, data visualization, and dabbling with natural language processing. I'm currently a MCS student at the University of Illinois Urbana-Champaign with an expected graduation date of Spring 2023. 
 
 ## About My Advisor
 
