@@ -12,24 +12,27 @@ Hi there! I'm Elaina, and I recently completed my Master's in Computer Science a
 ## DREAM Fellowship
 While in the iCAN program, I was fortunate to be a [DREAM](https://tech.mines.edu/dream/) Fellow and conduct research on the nature of scientific impact with [Dr. George Chacko](https://cs.illinois.edu/about/people/faculty/chackoge). I was able to devote 400 hours of work on an independent project of my choice through the support of the DREAM program, the details of which can be found [here](dream.md).
 
-## Current Interests
-
 ## Completed Projects
-### Data Science
-- *[Impact Assessment of a Single Study](dream.md)*
-    - An analysis of a single scientific paper and an evaluation of the metrics used to quantify its impact. 
+### Data & Information Systems
+- **[Impact Assessment of a Single Study](dream.md)**
+    - An evaluation of the metrics used to quantify the impact of a single scientific paper. 
+    - *This work was extended by students in the [CS STARS program at UIUC, Fall 2022 cohort](https://cs.illinois.edu/broadening-participation-computing/programs/csambassadors/participants).*
+
+
+- **[Spawning Connections: The Early Days of Paul 1963](http://el-wittmer.github.io/Paul_1963)**
+    - A spin-off project from my Impact Assessment project, I use the JavaScript D3 library to model the citation network of an influential paper in Coronary Heart Disease over its first three years of publication. 
 
 ### Artificial Intelligence
-- *Design Recommendations for Human-AI Interaction in Image Generation*
+- **Design Recommendations for Human-AI Interaction in Image Generation**
     - This is experimental project evaluating prompt design choices leading to successful AI image generation. The results of this mixed methods study show that the best prompts in image generation have a small, loosely defined scope. It is also helpful to take an interative approach, starting with a small idea and adding more detail to the prompt after viewing the results. 
     - [Link to Project Report]()
 
 
-- *Can ChatGPT develop software?*
+- **Can ChatGPT Engineer Software?**
     - This project evaluates ChatGPT performance on code generation, unit testing, bug detection, and more in two programming languages: Python and Java. 
     - [Link to Presentation Slides]()
 
 ### Systems
-- *Evaluation of Security Practices in Interdomain Routing*
+- **Evaluation of Security Practices in Interdomain Routing**
     - This report evaluates security concerns for common protocols used in Internet routing, what solutions are currently available, and cutting edge technologies that might replace current practices. 
     - [Link to Project Report]()
