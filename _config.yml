@@ -71,4 +71,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-serif
+theme: jekyll-theme-cayman

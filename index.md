@@ -16,7 +16,7 @@ While in the iCAN program, I was fortunate to be a [DREAM](https://tech.mines.ed
 
 ## Completed Projects
 ### Data Science
-- [Impact Assessment of a Single Study](dream.md)
+- *[Impact Assessment of a Single Study](dream.md)*
     - An analysis of a single scientific paper and an evaluation of the metrics used to quantify its impact. 
 
 ### Artificial Intelligence
@@ -30,6 +30,6 @@ While in the iCAN program, I was fortunate to be a [DREAM](https://tech.mines.ed
     - [Link to Presentation Slides]()
 
 ### Systems
-- Evaluation of Security Practices in Interdomain Routing
+- *Evaluation of Security Practices in Interdomain Routing*
     - This report evaluates security concerns for common protocols used in Internet routing, what solutions are currently available, and cutting edge technologies that might replace current practices. 
     - [Link to Project Report]()
