@@ -24,12 +24,12 @@ Future research might compare the breadth of Paul et al. (1963) to other highly-
 
 Many thanks to [Franklin Moy](https://www.linkedin.com/in/franklin-d-moy), current Electrical and Computer Engineering senior at UIUC, for graciously allowing me to use his code for calculating the Bu et al. (2021) metrics and for his help with troubleshooting. 
 
+## Resources
+
 [Impact Assessment Project - Paper](files/finalreport.pdf)
 
 [Impact Assessment Project - Presentation](files/finalreportpres.pdf)
 
 [Code and Data Relevant to Impact Assessment Project](https://github.com/el-wittmer/CS597_2022/tree/main/Impact_Assessment)
 
-## My Blog
-
-[My Blog](blog.html)
+## [My Project Blog](blog.html)
