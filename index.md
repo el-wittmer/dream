@@ -7,37 +7,29 @@ title: Personal Site
 {:toc}
 
 ## About Me
-Hi there! I'm Elaina, and I recently completed my Master's in Computer Science at the University of Illinois Urbana-Champaign (UIUC) in May of 2023. My undergraduate degree was in Linguistics, which I completed at Reed College in 2019. Through that experience, I developed a love of working with unscructured data and being able to tell powerful stories through the power of computing. This passion brought me to the [iCAN](https://cs.illinois.edu/academics/graduate/ican) program at UIUC, a bridge program designed to broaden access to computing to include those from underrepresented backgrounds. All work presented here has been completed within the past two years during my time in iCAN or in the Master's program at UIUC.
 
-## [My Resume](https://drive.google.com/file/d/1JiPYXBa4pWOCBsCvOciebd6VUf_DZWVO/view?usp=drive_link)
-*Links to Google Drive.*
+I'm Elaina — I'm an [iCAN student](https://cs.illinois.edu/academics/graduate/ican) (2021-2022 cohort) at University of Illinois Urbana-Champaign  and a [DREAM fellow](https://tech.mines.edu/dream/). I got my B.A. in Linguistics from Reed College in 2019, where I discovered a love of data wrangling and experimental design. My current interests fall broadly under data science and human-computer interaction with a focus on dissemination of knowledge and designing more intuitive systems.
 
-## DREAM Fellowship
-While in the iCAN program, I was fortunate to be a [DREAM](https://tech.mines.edu/dream/) Fellow and conduct research on the nature of scientific impact with [Dr. George Chacko](https://cs.illinois.edu/about/people/faculty/chackoge). I was able to devote 400 hours of work on an independent project of my choice through the support of the DREAM program. More information about this project, including my project blog, can be found [here](dream.md). 
+## About My Advisor
 
-## Completed Projects
-*All project titles link to more information about the project, such as a project report, presentation, or website.*
-### Data & Information Systems
-- **[Impact Assessment of a Single Study](dream.md)**
-    - An evaluation of the metrics used to quantify the impact of a single scientific paper. See also: [DREAM Fellowship](#dream-fellowship).
-    - *This work was extended by students in the [CS STARS program at UIUC, Fall 2022 cohort](https://cs.illinois.edu/broadening-participation-computing/programs/csambassadors/participants).*
+<a href="https://cs.illinois.edu/about/people/faculty/chackoge">George Chacko</a> is a Research Associate Professor of Computer Science at UIUC and Executive Director of Research Analytics at the Grainger College of Engineering. His research interests span novelty in science, research impact, knowledge diffusion, and the structure of research communities. More generally, his research involves scientometrics.
 
+## About My Project
 
-- **[Spawning Connections: The Early Days of Paul (1963)](http://el-wittmer.github.io/Paul_1963)**
-    - A spin-off project from my Impact Assessment project. I use the JavaScript D3 library to model the citation network of an influential paper in Coronary Heart Disease over its first three years of publication. 
+My study builds upon the concepts of breadth and depth as described by Bu, Waltman, and Huang (2021) in revisiting the study by Leng (2022). Leng (2022) used network analysis and qualitative assessments to evaluate the impact of the paper by Paul, whose negative results challenged existing thought on the diet-heart hypothesis in an influential article in 1963. 
 
-- **[Adaptive Recipe Book for Food Allergies](https://github.com/el-wittmer/cs411-database-project)** *(Private Repo)*
-    - A Django project which allows the user to search, delete, create, and edit recipes while keeping track of allergens within said recipes. A cool feature of this project is that newly added allergy information is retroactively applied to existing dataset entries, creating a richer dataset over time. 
+Findings show that Paul et al. (1963) is broad at the onset of publication, but deepens over the course of its lifespan, contrasting conclusions presented by Leng (2022). It is likely that the breadth and depth metrics used in this study are better suited to distinguish publications cited for methodology from those cited for their discoveries. As such, I suggest that breadth and depth be weighted differently for methods papers and research articles to better distinguish differences in citation patterns within a single publication category.
 
-### Artificial Intelligence
-- **[Design Recommendations for Human-AI Interaction in Image Generation](https://drive.google.com/file/d/1pcPoFqOXO5WyyaxGif4qyJ72yneCM5hV/view?usp=drive_link)**
-    - This experimental project evaluates prompt design choices leading to successful AI image generation. The results suggest UI/UX changes to both communicate the limitations of AI to end users while guiding them towards crafting more successful prompts.
+Future research might compare the breadth of Paul et al. (1963) to other highly-cited research articles published around the same time to determine whether there is any meaningful difference between the breadths of research articles. Additionally, further developement needs to be done on methodologies that examine the breadth of a research article without holding it to the same standards as a tool or methods paper.
 
-- **[Can ChatGPT Engineer Software?](https://drive.google.com/file/d/1P1v-4FqAa6j1NZYFmaZd7XFShPgtZ8l8/view?usp=drive_link)**
-    - This project evaluates ChatGPT performance on code generation, unit testing, bug detection, and more in both Python and Java. 
+Many thanks to [Franklin Moy](https://www.linkedin.com/in/franklin-d-moy), current Electrical and Computer Engineering senior at UIUC, for graciously allowing me to use his code for calculating the Bu et al. (2021) metrics and for his help with troubleshooting. 
 
-### Systems
-- **[Evaluation of Security Practices in Interdomain Routing](https://drive.google.com/file/d/1tCR5wKIDQftQKBXn3n9eG4IzN6lhFY4r/view?usp=drive_link)**
-    - This report evaluates security concerns for common protocols used in Internet routing, what solutions are currently available, and cutting edge technologies which might replace current practices. 
+## Resources
 
-<!-- Games? Link to github -->
+[Impact Assessment Project - Paper](files/finalreport.pdf)
+
+[Impact Assessment Project - Presentation](files/finalreportpres.pdf)
+
+[Code and Data Relevant to Impact Assessment Project](https://github.com/el-wittmer/CS597_2022/tree/main/Impact_Assessment)
+
+## [My Project Blog](blog.html)
