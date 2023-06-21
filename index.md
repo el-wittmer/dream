@@ -26,9 +26,9 @@ Many thanks to [Franklin Moy](https://www.linkedin.com/in/franklin-d-moy), curre
 
 ## Resources
 
-[Impact Assessment Project - Paper](files/finalreport.pdf)
+[Impact Assessment Project - Paper](./files/finalreport.pdf)
 
-[Impact Assessment Project - Presentation](files/finalreportpres.pdf)
+[Impact Assessment Project - Presentation](./files/finalreportpres.pdf)
 
 [Code and Data Relevant to Impact Assessment Project](https://github.com/el-wittmer/CS597_2022/tree/main/Impact_Assessment)
 
