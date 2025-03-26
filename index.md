@@ -8,7 +8,7 @@ title: Personal Site
 
 ## About Me
 
-I'm Elaina — I'm an [iCAN student](https://cs.illinois.edu/academics/graduate/ican) (2021-2022 cohort) at University of Illinois Urbana-Champaign  and a [DREAM fellow](https://tech.mines.edu/dream/). I got my B.A. in Linguistics from Reed College in 2019, where I discovered a love of data wrangling and experimental design. My current interests fall broadly under data science and human-computer interaction with a focus on dissemination of knowledge and designing more intuitive systems.
+I'm Elaina — I'm an [iCAN student](https://cs.illinois.edu/academics/graduate/ican) (2021-2022 cohort) at University of Illinois Urbana-Champaign  and a DREAM fellow. I got my B.A. in Linguistics from Reed College in 2019, where I discovered a love of data wrangling and experimental design. My current interests fall broadly under data science and human-computer interaction with a focus on dissemination of knowledge and designing more intuitive systems.
 
 ## About My Advisor
 
